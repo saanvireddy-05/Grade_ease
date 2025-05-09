@@ -1,5 +1,6 @@
 # Grade_ease
 An AI-powered Grading Assistant helps teachers evaluate written work by using pre-designed rubrics or allowing them to upload their own.
+
 Architecture
 GradeMate is built using JavaScript for the frontend and Python for the backend. Specifically, the frontend is a ReactJS app while the backend is a Django app, functioning as an API endpoint for the frontend.
 
